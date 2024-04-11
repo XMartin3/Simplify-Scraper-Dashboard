@@ -4,6 +4,8 @@ Description:
 
 This is a web scraping project which extracts internship job postings from the Simplify Jobs website (https://simplify.jobs/) and stores this data in a PostgreSQL database. Along with data extraction, an interactive Dash-based job dashboard is also provided for a user-friendly visualization of the scraped data. This dashboard illustrates a treemap of desired skills distribution forvarious  job categories.
 
+Dashboard: http://107.189.17.3:8000/
+
 Files:
 
 The project consists of the following Python files:
