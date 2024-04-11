@@ -2,7 +2,8 @@
 USERNAME = 'biharer614@ekposta.com'
 PASSWORD = 'biharer614@ekposta.com'
 
-# Parameters of the database main script runs on
+# Parameters of the database
+# Feel free to login to the database end explore its' structure
 DB_PARAMS = {
     'dbname': 'simplify',
     'user': 'simplifyuser',
