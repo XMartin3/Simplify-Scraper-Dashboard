@@ -1,4 +1,4 @@
-Project Name: Simplify Jobs Scraper and Dashboard
+Simplify Jobs Scraper and Dashboard
 
 Description:
 
